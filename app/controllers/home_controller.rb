@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
   def index
-    'NotImplemented'
+    'Implemented'
   end
 end
